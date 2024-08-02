@@ -76,6 +76,8 @@ instance/
 
 # Sphinx documentation
 docs/_build/
+docs/modules.rst
+docs/fetchsep*.rst
 
 # PyBuilder
 .pybuilder/

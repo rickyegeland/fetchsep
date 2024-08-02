@@ -6,9 +6,6 @@ FetchSEP
 .. image:: https://img.shields.io/pypi/v/fetchsep.svg
         :target: https://pypi.python.org/pypi/fetchsep
 
-.. image:: https://img.shields.io/travis/ktindiana/fetchsep.svg
-        :target: https://travis-ci.com/ktindiana/fetchsep
-
 .. image:: https://readthedocs.org/projects/fetchsep/badge/?version=latest
         :target: https://fetchsep.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
